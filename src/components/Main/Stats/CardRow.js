@@ -83,7 +83,7 @@ const Statistics = styled.div`
 
     @media (max-width: 900px) {
         .stats-title {
-            width: 80%;
+            width: 100%;
         }
     }
 `;
