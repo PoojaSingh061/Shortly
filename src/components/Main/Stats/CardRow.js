@@ -78,13 +78,7 @@ const Statistics = styled.div`
 
     .stats-title {
         margin: 1rem auto;
-        width: 50%;
         text-align: center;
-
-    @media (max-width: 900px) {
-        .stats-title {
-            width: 100%;
-        }
     }
 `;
 
